@@ -1,0 +1,29 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smkraycs12/10_Team_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smkraycs12/10_Team_Generator/issues"
+  },
+  "homepage": "https://github.comsmkraycs12/10_Team_Generator/#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
