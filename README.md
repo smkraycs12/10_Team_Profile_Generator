@@ -7,7 +7,7 @@ This Node CLI builds a team-displaying HTML file for a user based on their input
 
 The generated HTML page:
 
-![Sample Generated Page](screenshots\GeneratedHTML.png)
+![Sample Generated Page](screenshots\generated.png)
 
 ## Testing
 This program was build using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. 
